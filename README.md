@@ -2,7 +2,6 @@
 
 ##Enlaces:
 
-Google. https://jancossio.github.io/jcr-ts-TA30-CSS3_Layout-git-161123/
+1. [Google](https://jancossio.github.io/jcr-ts-TA30-CSS3_Layout-git-161123/Ejercicio1_Google/index.html)
 
-Netflix. 
-1. [Google]( https://jancossio.github.io/jcr-ts-TA29-Tablas_DIV-git-161123/deportes/donde.html)
+2. [Netflix](https://jancossio.github.io/jcr-ts-TA30-CSS3_Layout-git-161123/Ejercicio2_Netflix/index.html)
